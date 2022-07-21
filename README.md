@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deeuz
-- 👀 I’m interested in web development 
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on wed development projects 
 - 📫 How to reach me - +971 567030886
